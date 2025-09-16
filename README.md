@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working as **Senior Software Engineer at Grid Dynamics**
+- 🔭 Currently working as **Staff Software Engineer at Grid Dynamics**
 - 🌱 Exploring **AI + RAG (LangChain, Ollama), Cloud Scaling & Real-time Systems**
 - 👨‍💻 Experienced in **Java, Spring Boot, Microservices, Kafka, Kubernetes, AWS, React**
 - 📫 How to reach me: **azgarhussaini@gmail.com**
